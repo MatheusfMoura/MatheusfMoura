@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 ## Olá ! Seja bem vindo(a) ao meu perfil ! 😄
 <div align="center">
   <a href="https://github.com/MatheusfMoura">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusfMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusfMoura&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusfMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusfMoura&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+<div align="center">  
   <div style="display: inline_block"><br>
   <img align="center" alt="mth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="mth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="flutter="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="flutter="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-
+</div>
   
   
 </div>
