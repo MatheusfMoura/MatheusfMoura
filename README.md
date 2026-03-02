@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá ! Seja bem vindo(a) ao meu perfil ! 😄
+## Olá ! Seja bem vindo(a) ao meu perfil !
 <div align="center">
   <a href="https://github.com/MatheusfMoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusfMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
