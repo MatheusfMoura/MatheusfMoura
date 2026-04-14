@@ -19,7 +19,7 @@
   -->
 </div>
 
-<br><br>
+<br>
 <!--
 <div align="center">
   <a href="#" target="_blank">
@@ -33,8 +33,6 @@
   </a>
 </div>
 -->
-<br>
-
 <div align="center">
-  <img src="https://github.com/MatheusfMoura/MatheusfMoura/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/MatheusfMoura/MatheusfMoura/output/github-contribution-grid-snake.svg" width="100%">
 </div>
